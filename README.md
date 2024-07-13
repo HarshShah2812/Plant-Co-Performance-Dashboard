@@ -1,6 +1,6 @@
 # Plant Co Performance Dashboard
 
-> This project is about building a Power BI dashboard using data belonging to a hypothetical Plant company, that will show the company's financial performance across multiple years
+> This project is about building a Power BI dashboard that will show a hypothetical Plant company's financial performance across multiple years
 
 ## Overview
 
