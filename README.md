@@ -4,4 +4,4 @@
 
 ## Overview
 
-The aim of this project is to illustrate the process of building a Power BI dashboard, including processes such as data cleaning, modelling (DAX), building data visualisations, and formatting.
+The aim of this project is to illustrate the process of building a Power BI dashboard, including steps such as data cleaning, modelling (DAX), building data visualisations, and formatting.
