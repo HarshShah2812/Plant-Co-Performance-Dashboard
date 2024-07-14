@@ -22,3 +22,6 @@ Products (Dimension table)
 
 <img width="917" alt="Screenshot 2024-07-14 at 09 42 16" src="https://github.com/user-attachments/assets/ddf1220e-2313-419e-8b74-f24252a4dd5c">
 
+## Cleaning the data
+
+I imported the Excel file into Power BI, and decided to transform the data using the Power Query tool. What I particularly liked about this tool is that it keeps a record of all the changes made within it, and for each table, which is beneficial because you can delete certain changes if you wish. The transformations I made included renaming columns such as *latitude2* and *country2* for easier readability, removing duplicates and null values, and formatting the numeric data by adjusting the number of decimal places.
