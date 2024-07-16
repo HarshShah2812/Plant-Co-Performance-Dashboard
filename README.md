@@ -44,7 +44,7 @@ I then built SWITCH measures for both the YTD and PYTD data. Screenshots of them
 
 <img width="316" alt="Screenshot 2024-07-15 at 22 05 26" src="https://github.com/user-attachments/assets/06d62318-1965-4262-8e5d-f3d77e5780db">
 
-<img width="390" alt="Screenshot 2024-07-15 at 22 35 12" src="https://github.com/user-attachments/assets/a18607eb-4d1e-480d-9dcf-0d66d5a65e10">
+<img width="579" alt="Screenshot 2024-07-16 at 22 57 38" src="https://github.com/user-attachments/assets/c5583d65-ad11-48ab-8ccc-eee3ad54bc1f">
 
 I also created a measure called *YTD vs PYTD*, which subtracts the PYTD measure from the YTD measure in question e.g. YTD_Sales - PYTD_Sales.
 
