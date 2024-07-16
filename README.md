@@ -36,7 +36,7 @@ The next thing to do was build the key measures (Sales, Gross Profit, Quantity) 
 
 Examples of both of these types of measures can be seen below:
 
-<img width="194" alt="Screenshot 2024-07-15 at 21 34 11" src="https://github.com/user-attachments/assets/27041e75-2582-4485-83d9-0ede35d36c4c">
+<img width="468" alt="Screenshot 2024-07-15 at 21 34 11" src="https://github.com/user-attachments/assets/27041e75-2582-4485-83d9-0ede35d36c4c">
 
 <img width="468" alt="Screenshot 2024-07-15 at 21 54 30" src="https://github.com/user-attachments/assets/3e0dc802-854f-4cd4-80eb-bac5737c2a93">
 
