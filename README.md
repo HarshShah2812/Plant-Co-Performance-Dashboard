@@ -96,6 +96,23 @@ The next thing I did was create a Scatter chart with a zoom slider that would co
 
 <img width="314" alt="Screenshot 2024-07-17 at 18 46 52" src="https://github.com/user-attachments/assets/4718e2f6-db0f-4a25-b067-7d0b2fbaee01">
 
+## Tidying up the Dashboard
+
+I created Dynamic Chart titles for the waterfall, column, and scatter charts. The measures built to create these titles, as well as the final result, can be seen below:
+
+<img width="699" alt="Screenshot 2024-07-17 at 19 40 46" src="https://github.com/user-attachments/assets/638d4dc2-1658-4fd8-9cd2-f3309731f7c5">
+
+<img width="699" alt="Screenshot 2024-07-17 at 19 40 58" src="https://github.com/user-attachments/assets/d9820ab4-23ec-4440-984c-f932a96878f6">
+
+<img width="711" alt="Screenshot 2024-07-17 at 19 41 08" src="https://github.com/user-attachments/assets/65ac143b-5657-44d9-801c-c3d01205981b">
+
+<img width="587" alt="Screenshot 2024-07-17 at 19 42 41" src="https://github.com/user-attachments/assets/834e3e12-9ad6-4970-8cba-be621d52da42">
+
+I also created the report title using the same concept as that shown in the measure screenshots above, and can be seen below:
+
+<img width="808" alt="Screenshot 2024-07-17 at 19 53 08" src="https://github.com/user-attachments/assets/1f22236f-4c19-4cf1-bcef-ee2969130ad4">
+
+The last thing I did was filter out 2022 from the YTD slicer, as there is no PYTD data for 2021 in the dataset to make comparisons with.
 
 
 
