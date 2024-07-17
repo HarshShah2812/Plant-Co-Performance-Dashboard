@@ -112,7 +112,7 @@ I also created the report title using the same concept as that shown in the meas
 
 <img width="808" alt="Screenshot 2024-07-17 at 19 53 08" src="https://github.com/user-attachments/assets/1f22236f-4c19-4cf1-bcef-ee2969130ad4">
 
-The last thing I did was filter out 2022 from the YTD slicer, as there is no PYTD data for 2021 in the dataset to make comparisons with.
+The last thing I did was filter out 2022 from the YTD slicer, as there is no PYTD data for 2021 in the dataset to make comparisons with, leaving only 2023 and 2024.
 
 ## Final Result
 
