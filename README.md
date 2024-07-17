@@ -58,4 +58,4 @@ Now it was time to begin building the visuals that would make up the dashboard. 
 
 <img width="634" alt="Screenshot 2024-07-17 at 14 29 24" src="https://github.com/user-attachments/assets/696c6571-31a6-46a8-bf2f-feb686fbc20c">
 
-I also created a new measure called *GP%*, which gives the Gross Profit as a percentage of Sales.
+I also created a new measure called *GP%*, which gives the Gross Profit as a percentage of Sales, and added it to the card alongside *YTD*, *YTD vs PYTD*, and *PYTD*.
