@@ -51,3 +51,11 @@ I also created a measure called *YTD vs PYTD*, which subtracts the PYTD measure 
 One more thing I did was establish the relationships between the different tables inside *Model View*. The result can be seen below (1 represents One and * represents Many):
 
 <img width="579" alt="Screenshot 2024-07-16 at 22 45 21" src="https://github.com/user-attachments/assets/059bc9b7-24a6-41f8-a966-305295e60e81">
+
+## Building the core visuals
+
+Now it was time to begin building the visuals that would make up the dashboard. I chose a combination of slicers and cards for the header metrics. Below, I used a treemap, as it makes efficient use of space, and a waterfall chart, as it allows you to visualise both positive and negative growth, which is important in this context due to the regular comparisons made between YTD and PYTD performance. Additionally, I included a line and stacked column chart due to its ability to visualise two related metrics simultaneously—in this case, YTD and PYTD performance. An example can be seen below: 
+
+<img width="634" alt="Screenshot 2024-07-17 at 14 29 24" src="https://github.com/user-attachments/assets/696c6571-31a6-46a8-bf2f-feb686fbc20c">
+
+I also created a new measure called *GP%*, which gives the Gross Profit as a percentage of Sales.
