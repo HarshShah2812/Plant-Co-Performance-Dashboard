@@ -59,3 +59,17 @@ Now it was time to begin building the visuals that would make up the dashboard. 
 <img width="634" alt="Screenshot 2024-07-17 at 14 29 24" src="https://github.com/user-attachments/assets/696c6571-31a6-46a8-bf2f-feb686fbc20c">
 
 I also created a new measure called *GP%*, which gives the Gross Profit as a percentage of Sales, and added it to the card alongside *YTD*, *YTD vs PYTD*, and *PYTD*.
+
+## Formatting and Conditional Formatting
+
+After creating the core visuals, I began formatting them. Before anything though, I changed the theme to the built-in Storm theme. 
+
+Starting with the Performance metrics slicer, I changed the colour of the buttons when not selected to light grey, and added accent bars to them to give separation, as well as adjusting the Padding size to narrow; I also adjusted the colour of the buttons when selected to a dark grey, and changed the colour when hovering over a button to a mild blue.
+
+Moving onto the Card, I initially changed the text colour to grey. I then added conditional formatting separately to the text and background of the *YTD vs PYTD* tile. The criteria for both respectively can be seen below: 
+
+<img width="906" alt="Screenshot 2024-07-17 at 17 13 26" src="https://github.com/user-attachments/assets/f32009a6-436c-4274-9b90-8569da4923c1">
+
+<img width="906" alt="Screenshot 2024-07-17 at 17 13 35" src="https://github.com/user-attachments/assets/df370490-8ad9-4b54-9740-e39a9ba9ae77">
+
+I then removed the borders, and changed the shape of the tiles to rounded rectangles.
