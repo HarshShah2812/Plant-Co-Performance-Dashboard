@@ -73,3 +73,29 @@ Moving onto the Card, I initially changed the text colour to grey. I then added 
 <img width="906" alt="Screenshot 2024-07-17 at 17 13 35" src="https://github.com/user-attachments/assets/df370490-8ad9-4b54-9740-e39a9ba9ae77">
 
 I then removed the borders, and changed the shape of the tiles to rounded rectangles.
+
+## Formatting the Treemap, Waterfall chart and Line and Stacked Column chart
+
+Starting with the Treemap, I opted for the Values to be based on *YTD vs PYTD*, and adusted the filter to show only the bottom 10 countries based on this metric, before finally adding data labels to provide clarity.
+
+Moving onto the Waterfall chart, I added data labels, a legend, as well as adding *Product_Type* and *Product_Name* to the Category list, enabling us to Drill Down and find out more about the performance of plant types and specific plants that fall under each of those types in each country. Below you can see the sales data for all the outdoor plants sold to China in February 2024:
+
+<img width="301" alt="Screenshot 2024-07-17 at 18 08 51" src="https://github.com/user-attachments/assets/c9d378c1-7bdb-479f-8c06-eb06e667df55">
+
+<img width="301" alt="Screenshot 2024-07-17 at 18 09 18" src="https://github.com/user-attachments/assets/5cd2bd99-41eb-4c89-a731-41f9c0ca3bf1">
+
+<img width="301" alt="Screenshot 2024-07-17 at 18 09 36" src="https://github.com/user-attachments/assets/25bced59-2e0e-4076-8f5b-303c5140e13b">
+
+<img width="301" alt="Screenshot 2024-07-17 at 18 09 47" src="https://github.com/user-attachments/assets/e0ff38b6-be2d-40f4-b45d-dc81a67d218b">
+
+With the Line and Stacked Column chart, I changed the colour of the line to red to distinguish it from the column colour and added markers for easier visibility, in addition to adding data labels to the line for better readability. I also added a legend to distinguish between the different product types. An example for 2024 can be seen below:
+
+<img width="314" alt="Screenshot 2024-07-17 at 18 50 07" src="https://github.com/user-attachments/assets/11d82b4b-9b3c-45fa-9ffa-21aec07a5d73">
+
+The next thing I did was create a Scatter chart with a zoom slider that would compare all companies' GP% with either of the 3 key metrics (Sales, Quantity, Gross Profit). I added average lines for both the X and Y axes to add more detail. An example of company sales for 2024 can be seen below:
+
+<img width="314" alt="Screenshot 2024-07-17 at 18 46 52" src="https://github.com/user-attachments/assets/4718e2f6-db0f-4a25-b067-7d0b2fbaee01">
+
+
+
+
