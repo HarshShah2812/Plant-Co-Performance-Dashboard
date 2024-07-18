@@ -14,9 +14,11 @@ Sales (Fact Table)
 
 <img width="508" alt="Screenshot 2024-07-14 at 09 41 47" src="https://github.com/user-attachments/assets/1daaedcc-af7a-4043-b6a9-662e420cc76c">
 
+
 Accounts (Dimension Table)
 
 <img width="641" alt="Screenshot 2024-07-14 at 09 42 08" src="https://github.com/user-attachments/assets/a10297ba-e591-42ed-b20d-f940e81a43fa">
+
 
 Products (Dimension Table)
 
@@ -40,11 +42,13 @@ Examples of both of these types of measures can be seen below:
 
 <img width="468" alt="Screenshot 2024-07-15 at 21 54 30" src="https://github.com/user-attachments/assets/3e0dc802-854f-4cd4-80eb-bac5737c2a93">
 
+
 I then built SWITCH measures for both the YTD and PYTD data. Screenshots of them can be seen below:
 
 <img width="316" alt="Screenshot 2024-07-15 at 22 05 26" src="https://github.com/user-attachments/assets/06d62318-1965-4262-8e5d-f3d77e5780db">
 
 <img width="579" alt="Screenshot 2024-07-16 at 22 57 38" src="https://github.com/user-attachments/assets/c5583d65-ad11-48ab-8ccc-eee3ad54bc1f">
+
 
 I also created a measure called *YTD vs PYTD*, which subtracts the PYTD measure from the YTD measure in question, e.g. YTD_Sales - PYTD_Sales.
 
